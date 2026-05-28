@@ -5,3 +5,4 @@ Openssl Центр сертификации
                          3. Файл с объяснением процесса работы сертификатов 
 
                          
+отличный сайт https://fastfox.pro/blog/tutorials/openssl-private-ca-guide/
